@@ -14,3 +14,7 @@ Revisiting some of the important advanced topics in Python such as:
 * Data Classes
 * Magic Methods
 * Custom Exceptions
+* Abstract Base Classes (ABCs)
+* Web Scraping and APIs: Libraries like BeautifulSoup, Requests and Selenium
+* Enumerations
+* Regular Expressions
