@@ -1,5 +1,5 @@
 # Advanced_Python
-Looking into more advanced topics of Python such as:
+Revisiting some of the important advanced topics in Python such as:
 * Multithreading and Multiprocessing
 * Coroutines and Asynchronous Programming (Asyncio)
 * Custom logging
