@@ -2,12 +2,14 @@
 Revisiting some of the important advanced topics in Python such as:
 * Multithreading and Multiprocessing
 * Coroutines and Asynchronous Programming (Asyncio)
+* Descriptors
 * Custom logging
 * Concurrency
 * Closures and Lambdas
 * Context Managers
 * Metaprogramming
-* Decorators
+* Decorators, functools.wraps
+* Generators
 * Custom Metaclasses
 * Type Annotations and Type Hints
 * Profiling and Optimization
