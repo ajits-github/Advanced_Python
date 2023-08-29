@@ -3,7 +3,6 @@ Revisiting some of the important advanced topics in Python such as:
 * Global Interpreter Lock (GIL) & Mutex
 * Multithreading and Multiprocessing
 * Coroutines and Asynchronous Programming (Asyncio)
-* Descriptors
 * Custom logging
 * Concurrency
 * Closures and Lambdas
@@ -11,6 +10,7 @@ Revisiting some of the important advanced topics in Python such as:
 * Partial functions
 * Understanding Global keyword
 * Context Managers
+* Descriptors
 * Metaprogramming
 * Decorators, functools.wraps
 * Generators
