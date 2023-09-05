@@ -18,6 +18,7 @@ Revisiting some of the important advanced topics in Python such as:
 * Type Annotations and Type Hints
 * Profiling and Optimization
 * Data Classes
+* Composition And Aggregation
 * Magic Methods
 * Custom Exceptions
 * Abstract Base Classes (ABCs)
