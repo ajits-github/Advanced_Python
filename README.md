@@ -12,7 +12,7 @@ Revisiting some of the important advanced topics in Python such as:
 * Context Managers
 * Descriptors
 * Metaprogramming
-* Decorators, functools.wraps
+* Decorators, functools.wraps, some of the in-built decorators
 * Generators
 * Custom Metaclasses
 * Type Annotations and Type Hints
