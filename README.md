@@ -25,3 +25,5 @@ Revisiting some of the important advanced topics in Python such as:
 * Web Scraping and APIs: Libraries like BeautifulSoup, Requests and Selenium
 * Enumerations
 * Regular Expressions
+
+Including Java vs. Python and equivalent methods in both programming languages.
